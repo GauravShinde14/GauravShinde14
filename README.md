@@ -1,20 +1,51 @@
 <h1 align="center">Hi 👋, I'm Gaurav Shinde</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">🚀 A Passionate Software Engineer | Android & Flutter Developer</h3>
 
-
-
-- 🔭 I’m currently working on **City Guide**
-
-- 📫 How to reach me **gauravshinde123@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurav-shinde-23a4aa224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav shinde" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gauravshindegs14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravshindegs14" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gauravshindegs123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravshindegs123" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F76C0C&center=true&vCenter=true&width=435&lines=Android+%7C+Flutter+Developer;Building+Smart+Mobile+Apps;Always+Learning+%26+Exploring+Tech" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a> </p>
+---
+
+- 🔭 I’m currently working on **City Guide** – a smart navigation and recommendation app  
+- 🌱 I’m exploring **AI in mobile development**  
+- 👨‍💻 All of my projects are available at [github.com/gauravshindegs](https://github.com/gauravshindegs)  
+- 💬 Ask me about **Flutter, Android, Firebase, Java**  
+- 📫 Reach me at **gauravshinde123@gmail.com**
+
+---
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/gaurav-shinde-23a4aa224/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/gauravshindegs14" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" height="30"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/gauravshindegs123" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/512px-GeeksforGeeks.svg.png?20221119191502" alt="GeeksforGeeks" height="30" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,firebase,mysql,sqlite,python,html,css,bootstrap,github" alt="Skills" />
+</p>
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravshindegs&show_icons=true&theme=react&hide_border=true" alt="Gaurav's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshindegs&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshindegs&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">Let's build something amazing together! 🚀</h3>
