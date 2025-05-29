@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **City Guide** – a smart navigation and recommendation app  
 - 🌱 I’m exploring **AI in mobile development**  
-- 👨‍💻 All of my projects are available at [github.com/gauravshindegs](https://github.com/gauravshindegs)  
+- 👨‍💻 All of my projects are available at [github.com/GauravShinde14](https://github.com/GauravShinde14)  
 - 💬 Ask me about **Flutter, Android, Firebase, Java**  
 - 📫 Reach me at **gauravshinde123@gmail.com**
 
