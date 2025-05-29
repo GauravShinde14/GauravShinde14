@@ -39,11 +39,11 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravshindegs&show_icons=true&theme=react&hide_border=true" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravShinde14&show_icons=true&theme=react&hide_border=true" alt="Gaurav's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravshindegs&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravShinde14&theme=react&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshindegs&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravShinde14&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
